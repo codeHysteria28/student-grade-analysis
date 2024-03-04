@@ -42,7 +42,7 @@ public class Main {
         // prompt a lecturer to add number of results
         System.out.println("");
         System.out.println("|--------------------------------------------------|");
-        System.out.println("|   WELCOME to TUDublin grading analysis program   |");
+        System.out.println("|   WELCOME to School grading analysis program   |");
         System.out.println("|--------------------------------------------------|");
         System.out.println("");
 
